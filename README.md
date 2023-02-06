@@ -1,24 +1,5 @@
-# README
+Rails 6.1.7.2
+Ruby 2.7.2
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Данный проект создан в качестве тестового задания. Реализованы только необходимые по заданию модели и методы. Методы проверены с помощью Rspec. Необходимые по заданию методы реализованы в app/models/player.rb, методы протестированы в spec/models/player_spec.rb
+Так же реализована и протестирована ауентификация пользователя с помощью гема Devise.
